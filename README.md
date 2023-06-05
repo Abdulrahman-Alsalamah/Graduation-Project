@@ -5,6 +5,11 @@ The graduation project is an Extension Chrome
 ---
 
 To start the interactive extension, simply downlaod the folder `Rate UI extension`.
+<details><summary>Show how download folder</summary>
+
+1. Click ` <> Code `
+2. ` Download ZIP `:
+</details>
 
 #### Follow the steps:
 
