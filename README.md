@@ -135,7 +135,7 @@ To start the interactive extension, simply downlaod the folder `Rate UI extensio
 <!--     -->
    
    <h3>
-      Final Result <img align="center" style="width:30px;" src="(https://github.com/alnaqi/Graduation-Project/assets/125767082/062af87c-5f2f-4191-8858-1f9dbebb756e" />
+      Final Result <img align="center" style="width:30px;" src="https://github.com/alnaqi/Graduation-Project/assets/125767082/062af87c-5f2f-4191-8858-1f9dbebb756e" />
    </h3>
    <p align="center">
      <a href="https://www.chess.com/member/andyruwruw">
