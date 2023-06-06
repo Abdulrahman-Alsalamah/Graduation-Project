@@ -143,7 +143,7 @@ To start the interactive extension, simply downlaod the folder `Rate UI extensio
      </a>
    </p>
    <p align="center">
-      <i>Feedback will be in word file to share</i>
+      <i>Feedback will be in word file ready to share</i>
    </p>
    
    #### Now go to any website using our Extension and rate with sharing the feedback to any one you want. 
